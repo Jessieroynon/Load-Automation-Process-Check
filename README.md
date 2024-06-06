@@ -2,9 +2,9 @@
 
 ## Instructions to Download and Run the App
 
-To download the latest version of the Load Automation Process Check Application, please visit the [Releases](https://github.com/hmsholdings/Load-Automation-Process-Check/releases/tag/V1.0.0) page.
+To download the latest version of the Load Automation Process Check Application, please visit the [Releases](https://github.com/Jessieroynon/Load-Automation-Process-Check/releases/tag/v1.3.0) page.
 
-1. Go to the [Releases](https://github.com/hmsholdings/Load-Automation-Process-Check/releases/tag/V1.0.0) page of this repository.
+1. Go to the [Releases](https://github.com/Jessieroynon/Load-Automation-Process-Check/releases/tag/v1.3.0) page of this repository.
 2. Find the latest release version.
 3. Download the app executable file (`.exe`) attached to the release.
 4. Run the executable file to install the app on your system.
