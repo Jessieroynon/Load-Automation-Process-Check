@@ -17,7 +17,7 @@ If you encounter any issues or have feedback on the application, please feel fre
 For support inquiries or feedback, you can contact Jessie Roynon at jessie.roynon@gainwelltechnologies.com.
 
 
-## Instructions for using the AppDev Process App
+## Instructions for using the Load Automation Process Check App
 
 Step 1: Login to the App using your HMS credentials (G# and Password)
 
